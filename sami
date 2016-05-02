@@ -23,7 +23,7 @@ mise en place de lois
         service autorisé dans un pays mais interdit dans un autre
     }
     
-    ICAAN
+    ICAAN: Internet Corporation for Assigned Names and Numbers
     {
         serveurs racines
         {
@@ -31,7 +31,12 @@ mise en place de lois
         }
     }
     
-    FAI
+    FAI: Fournisseur d'Accès à Internet
+    {
+        controle de la mise en réseau des utilisateurs
+    }
+    
+    DNS: Domain Name System
     {
         
     }
