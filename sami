@@ -25,6 +25,8 @@ mise en place de lois
     
     ICAAN: Internet Corporation for Assigned Names and Numbers
     {
+        gestion des IP primaires
+        
         serveurs racines
         {
             
@@ -38,7 +40,7 @@ mise en place de lois
     
     DNS: Domain Name System
     {
-        
+        nommage des serveurs pour un nom plus agréable
     }
     
     Infrastructures de surveillance des flux au niveau élémentaire
